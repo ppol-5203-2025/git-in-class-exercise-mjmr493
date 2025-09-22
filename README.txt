@@ -1,0 +1,1 @@
+This is Exercise 0 of the Data Science 1 course, meant to help set up my GitHub classroom. This is NOT the real excercise for Week 2. It's just an in-class excercise that I happen to be completing outside of class time.
